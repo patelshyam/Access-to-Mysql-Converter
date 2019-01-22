@@ -1,0 +1,17 @@
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\bin\Debug\Access to Mysql.exe.config
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\bin\Debug\Access to Mysql.exe
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\bin\Debug\Access to Mysql.pdb
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\obj\Debug\Access to Mysql.csprojAssemblyReference.cache
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\obj\Debug\Access_to_Mysql.Properties.Resources.resources
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\obj\Debug\Access to Mysql.csproj.GenerateResource.cache
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\obj\Debug\Access to Mysql.csproj.CoreCompileInputs.cache
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\obj\Debug\Access to Mysql.exe
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\obj\Debug\Access to Mysql.pdb
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\obj\Debug\Access_to_Mysql.Form1.resources
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\bin\Debug\MySql.Data.dll
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\bin\Debug\MySql.Data.xml
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\obj\Debug\Access to Mysql.csproj.CopyComplete
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\bin\Debug\Access to Mysql.exe.manifest
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\bin\Debug\Access to Mysql.application
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\obj\Debug\Access to Mysql.exe.manifest
+C:\Users\shyam\source\repos\Access to Mysql\Access to Mysql\obj\Debug\Access to Mysql.application
