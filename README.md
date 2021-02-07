@@ -1,4 +1,4 @@
-# Access to MySql schema converter
+# Access to MySql converter
 
 ![Screenshot (288)](https://user-images.githubusercontent.com/26683455/106171910-28201500-61b8-11eb-9da1-5741daac8bf1.png)
 
@@ -72,7 +72,7 @@ SOFTWARE.
 
 ## Author Info
 
-- Hacker Rank - [@Shyam Patel](https://www.hackerrank.com/LosPepes)
+- Hacker Rank Profile- [@Shyam Patel](https://www.hackerrank.com/LosPepes)
 
 [Back To The Top](#read-me-template)
 
