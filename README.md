@@ -35,28 +35,18 @@ The user selects the asscess database file and enters the password (If applicabl
 ## How To Use
 
 #### Installation
-
-
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
+You need Visual Studio 2017 or + for installation.
+Inside a folder, pull the entire project and double click Access to mysql.sln file and you can run the code via visual studio.
 [Back To The Top](#read-me-template)
 
 ---
 
-## References
-[Back To The Top](#read-me-template)
-
----
 
 ## License
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2018] [Shyam Patel]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -82,14 +72,7 @@ SOFTWARE.
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Hacker Rank - [@Shyam Patel](https://www.hackerrank.com/LosPepes)
 
 [Back To The Top](#read-me-template)
 
-
-
-
-- By click on go, the MSAccess database will be migrated to mysql and availabe on the destination server.
-
-![Screenshot (289)](https://user-images.githubusercontent.com/26683455/106172213-8fd66000-61b8-11eb-8774-d4ecb8e81355.png)
