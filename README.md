@@ -72,7 +72,8 @@ SOFTWARE.
 
 ## Author Info
 
-- Hacker Rank Profile- [@Shyam Patel](https://www.hackerrank.com/LosPepes)
+- Hacker Rank Profile- [@LosPapes](https://www.hackerrank.com/LosPepes)
+- LinkedIn profile- [@Shyam Patel](https://www.linkedin.com/in/patelshyam54/)
 
 [Back To The Top](#access-to-mysql-converter)
 
