@@ -19,12 +19,14 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-User will select the asscess database file and enter the password to open the file in case it applicable along with Mysql database information such as host, database, password
+The user selects the asscess database file and enters the password (If applicable) along with Mysql database information, such as host, database, username, password, where the user wants to migrate the Ms-asscess database. Migration will start and progress will be displayed in the Progress bar under the "GO" button after clicking on that. After the process ends, you will receive a suitable message
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- C#
+- OLEDB for MS-Access
+- Mysql
+- Ms-Access
 
 [Back To The Top](#read-me-template)
 
