@@ -10,9 +10,7 @@
 - [Access to MySql converter](#access-to-mysql-converter)
     + [Table of Contents](#table-of-contents)
   * [Description](#description)
-      - [Technologies](#technologies)
   * [How To Use](#how-to-use)
-      - [Installation](#installation)
   * [License](#license)
   * [Author Info](#author-info)
 
