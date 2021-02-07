@@ -36,6 +36,7 @@ The user selects the asscess database file and enters the password (If applicabl
 #### Installation
 You need Visual Studio 2017 or + for installation.
 Inside a folder, pull the entire project and double click Access to mysql.sln file and you can run the code via visual studio.
+
 [Back To The Top](#access-to-mysql-converter)
 
 ---
